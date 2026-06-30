@@ -1,0 +1,61 @@
+Financial Health Dashboard
+Overview
+
+The Financial Health Dashboard is an interactive Power BI project developed as part of my internship. The dashboard provides real-time insights into an organization's financial performance by analyzing income statements, balance sheets, cash flows, profitability trends, and financial forecasts. It is designed to help small and medium-sized enterprises (SMEs) make informed financial decisions through interactive visualizations.
+
+Objective
+
+The objective of this project is to analyze an organization's financial health by providing real-time insights into key financial metrics, profitability, and future financial planning using interactive Power BI dashboards.
+
+Key Features
+
+Income Statement Analysis
+Monitor revenue, expenses, gross profit, and net profit.
+Compare financial performance across different periods.
+Track profit margins and business growth.
+
+Balance Sheet Analysis
+Analyze assets, liabilities, and equity.
+Evaluate the company's financial position.
+Monitor liquidity and financial stability.
+
+Cash Flow Analysis
+Visualize operating, investing, and financing cash flows.
+Track cash inflows and outflows over time.
+Assess cash availability for business operations.
+
+Profitability Analysis
+Analyze profit trends across multiple periods.
+Compare revenue growth and expense patterns.
+Evaluate key financial performance indicators (KPIs).
+
+Financial Forecasting
+Forecast future revenue and expenses.
+Support budgeting and financial planning.
+Enable proactive business decision-making using predictive analysis.
+
+Dashboard Insights
+Revenue and expense trends.
+Gross profit and net profit analysis.
+Cash flow performance.
+Balance sheet overview.
+Profitability trends over time.
+Financial forecasting for budgeting and planning
+
+Tools & Technologies
+Power BI
+Microsoft Excel (Data Source)
+Power Query
+DAX (Data Analysis Expressions)
+Data Visualization
+
+Business Benefits
+Provides a complete overview of financial performance.
+Supports budgeting and financial planning.
+Identifies profitability trends and business growth opportunities.
+Improves financial decision-making through interactive dashboards.
+Helps SMEs monitor financial health in real time.
+
+Internship Project
+
+This project was completed as part of my internship to demonstrate practical skills in financial analytics, business intelligence, data visualization, and Power BI dashboard development.
