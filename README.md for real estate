@@ -1,0 +1,64 @@
+Real Estate Market Trends Dashboard
+Overview
+
+The Real Estate Market Trends Dashboard is an interactive Power BI project developed as part of my internship. The dashboard provides comprehensive insights into the real estate market by analyzing property prices, rental yields, market demand, supply conditions, and key economic indicators. It helps investors, developers, and business analysts make informed investment and development decisions.
+
+Objective
+
+The objective of this project is to analyze real estate market dynamics using interactive visualizations and geographical analysis to identify profitable investment opportunities and market trends.
+
+Key Features
+
+Property Price Analysis
+Analyze average property prices across different locations.
+Compare residential and commercial property prices.
+Monitor price trends over time.
+
+Rental Yield Analysis
+Calculate and compare rental yields.
+Identify areas with the highest return on investment (ROI).
+Analyze rental income patterns.
+
+Market Demand & Supply
+Track property demand and supply.
+Identify high-demand and low-supply markets.
+Monitor market growth and availability.
+
+Economic Indicators
+Analyze the impact of economic factors on property prices.
+Compare market performance with economic trends.
+Support investment planning using data-driven insights.
+
+Geographical Analysis
+Interactive heat maps to identify market hotspots.
+Location-based comparison of property values.
+Regional investment opportunity analysis.
+
+Dashboard Insights
+
+Property price distribution by location.
+Rental yield comparison across cities or regions.
+Demand and supply analysis.
+Market hotspot identification using heat maps.
+Investment opportunity analysis.
+Economic trend visualization.
+
+Tools & Technologies
+
+Power BI
+Microsoft Excel (Data Source)
+Power Query
+DAX (Data Analysis Expressions)
+Map Visuals & Heat Maps
+Data Visualization
+
+Business Benefits
+Supports data-driven real estate investment decisions.
+Identifies profitable market locations.
+Monitors property market performance.
+Analyzes rental returns and market demand.
+Helps developers and investors identify future growth opportunities.
+
+Internship Project
+
+This project was completed as part of my internship to demonstrate practical skills in business intelligence, data visualization, geographic analysis, and Power BI dashboard development.
